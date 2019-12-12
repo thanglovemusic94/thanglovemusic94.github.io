@@ -19,9 +19,10 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    twitter: thanglovemusic94
+    # twitter: thanglovemusic94
     github:  thanglovemusic94
-    linkedIn: thanglovemusic94
+    linkedIn: https://www.linkedin.com/in/thang-tony-92296615a/
+    facebook: https://www.facebook.com/thangtony2741994
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
