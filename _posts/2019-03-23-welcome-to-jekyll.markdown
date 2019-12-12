@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Chuyên Mục của tui
 title:  "lap trinh java web"
 date:   ‎12-‎Dec-‎19 5:52:48 PM tại your tv
 categories: Spring MVC, Spring Boot
@@ -25,7 +25,7 @@ public class RegistrationController {
 }
 ```
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk]. - của tác giả [link lam cv][link-lam-cv]
+Tác giả [link lam cv][link-lam-cv] .Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
