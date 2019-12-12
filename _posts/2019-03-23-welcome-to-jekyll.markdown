@@ -1,7 +1,7 @@
 ---
-layout: Chuyên Mục của tui
+layout: "Chuyên Mục của tui"
 title:  "lap trinh java web"
-date:   ‎12-‎Dec-‎19 5:52:48 PM tại your tv
+date:   ‎"12-‎Dec-‎19 5:52:48 PM tại your tv"
 categories: Spring MVC, Spring Boot
 ---
 đây là đoạn code demo thôi
